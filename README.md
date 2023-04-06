@@ -1,4 +1,4 @@
-#### Hi 👋, I'm Ariful
+#### Hi 👋,
 ##### **Senior PHP developer. Wordpress theme/plugin dev. Laravel/React JS/Vue**
 
 [![](https://visitcount.itsvg.in/api?id=sadafrangian3&icon=0&color=0)](https://visitcount.itsvg.in)
